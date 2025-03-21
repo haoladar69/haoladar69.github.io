@@ -5,12 +5,28 @@
     <link>https://haoladar69.github.io/tags/markdown/</link>
       <atom:link href="https://haoladar69.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://haoladar69.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Markdown</title>
       <link>https://haoladar69.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://haoladar69.github.io/post/02/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://haoladar69.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;-учебная-неделя-позади&#34;&gt;💻 Учебная неделя позади!&lt;/h1&gt;
+&lt;p&gt;Неделя была динамичной и очень продуктивной:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 Осваивали новые подходы в программировании — работали с функциями и модулями.&lt;/li&gt;
+&lt;li&gt;🔹 Разбирались в том, как работает Markdown — теперь пишу конспекты красиво и понятно.&lt;/li&gt;
+&lt;li&gt;🔹 Была интересная лекция по базам данных, впервые пробовали SQL-запросы.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Понемногу начинаю чувствовать себя настоящим айтишником 😄&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
