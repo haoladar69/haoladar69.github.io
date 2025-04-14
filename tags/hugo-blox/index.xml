@@ -5,12 +5,29 @@
     <link>https://haoladar69.github.io/tags/hugo-blox/</link>
       <atom:link href="https://haoladar69.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://haoladar69.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://haoladar69.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://haoladar69.github.io/post/04/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://haoladar69.github.io/post/04/</guid>
+      <description>&lt;h2 id=&#34;-краткие-итоги-прошедшей-недели&#34;&gt;📌 Краткие итоги прошедшей недели&lt;/h2&gt;
+&lt;p&gt;На этой неделе получилось продуктивно распределить время между учёбой и проектной деятельностью:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Завершил лабораторную по базам данных — SQL-запросы наконец начали «ложиться» в голове логично.&lt;/li&gt;
+&lt;li&gt;📚 На парах по анализу данных обсудили реальные кейсы использования многомерных таблиц — стало понятнее, как теоретические знания применяются в практике.&lt;/li&gt;
+&lt;li&gt;🧠 Начал работать над мини-проектом по визуализации статистики для учебного центра. Использую Python и matplotlib — вроде бы просто, но нюансов больше, чем ожидал.&lt;/li&gt;
+&lt;li&gt;💬 Принял участие в онлайн-семинаре про UX в информационных системах. Очень интересный взгляд на то, как интерфейс влияет на восприятие данных.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Впереди — подготовка к сессии и работа над курсовым. Главное — держать темп и не терять интерес к делу!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>

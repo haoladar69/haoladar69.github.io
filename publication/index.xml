@@ -5,12 +5,55 @@
     <link>https://haoladar69.github.io/publication/</link>
       <atom:link href="https://haoladar69.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Публикации</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://haoladar69.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Публикации</title>
       <link>https://haoladar69.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://haoladar69.github.io/publication/04/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://haoladar69.github.io/publication/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования-от-формул-к-кодам&#34;&gt;🧬 Языки научного программирования: от формул к кодам&lt;/h2&gt;
+&lt;p&gt;Научное программирование — это не просто код, а способ формализовать исследования, проводить моделирование, анализировать огромные массивы данных и визуализировать закономерности. В этом контексте язык программирования — не просто инструмент, а средство мышления.&lt;/p&gt;
+&lt;p&gt;🧪 &lt;strong&gt;Для чего нужны научные языки:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Решение дифференциальных уравнений,&lt;/li&gt;
+&lt;li&gt;Моделирование физических процессов,&lt;/li&gt;
+&lt;li&gt;Обработка статистических данных,&lt;/li&gt;
+&lt;li&gt;Машинное обучение и анализ изображений.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-основные-языки-применяемые-в-научной-среде&#34;&gt;🔬 Основные языки, применяемые в научной среде:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;br&gt;
+Лидер в современном научном сообществе. Огромное количество библиотек: NumPy, SciPy, Pandas, Matplotlib. Подходит как для быстрой аналитики, так и для серьёзных проектов с визуализацией и машинным обучением.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MATLAB&lt;/strong&gt;&lt;br&gt;
+Часто используется в инженерной среде. Удобен для численных расчётов и визуализации. Правда, платный, что делает его менее доступным вне вузов и крупных организаций.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;br&gt;
+Любим статистиками. Сильная сторона — анализ данных и работа с визуализациями. Подходит для биоинформатики, социологических исследований и других областей, где важна глубина статистической проработки.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Julia&lt;/strong&gt;&lt;br&gt;
+Новый, но перспективный язык. Совмещает высокую производительность C с простотой Python. Часто используется в численном моделировании и машинном обучении.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fortran и C/C++&lt;/strong&gt;&lt;br&gt;
+Несмотря на возраст, всё ещё актуальны. Применяются там, где важна высокая производительность: климатические модели, аэродинамика, расчёты в ядерной физике.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-какой-выбрать&#34;&gt;🧭 Какой выбрать?&lt;/h3&gt;
+&lt;p&gt;Всё зависит от задачи. Если важно быстро начать и подключить готовые решения — Python. Если приоритет в скорости — C/C++ или Fortran. Если нужны продвинутые средства анализа данных — R или Julia.&lt;/p&gt;
+&lt;p&gt;Научное программирование — это мост между теорией и практикой. Языки дают возможность делать этот мост надёжным, быстрым и удобным для всех участников исследования.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Отчёт по работе</title>
